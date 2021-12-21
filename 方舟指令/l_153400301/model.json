@@ -10,7 +10,7 @@
   ],
 	"motions": {
 		"idle": [
-		  { "file": "motions/idle.mtn","fade_in":250, "fade_out":200 ,"cv_id":1}
+		  { "file": "motions/idle.mtn #402.mtn","fade_in":250, "fade_out":200 ,"cv_id":1}
 		],
 		"idle_click": [
 		  { "file": "motions/1534003_02.mtn","fade_in":250, "fade_out":200,"cv_id":2},
