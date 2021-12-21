@@ -24,7 +24,7 @@
 		  { "file": "motions/009.mtn","fade_in":0, "fade_out":0 ,"cv_id":9},
 		  { "file": "motions/010.mtn","fade_in":0, "fade_out":0 ,"cv_id":10},
 		  { "file": "motions/011.mtn","fade_in":0, "fade_out":0 ,"cv_id":11},
-		  { "file": "motions/012.mtn","fade_in":0, "fade_out":0 ,"cv_id":12},
+		  { "file": "motions/012.mtn","fade_in":0, "fade_out":0 ,"cv_id":12}
 		],
     "login": [
 		  { "file": "motions/020.mtn","fade_in":0, "fade_out":0 ,"cv_id":20}
