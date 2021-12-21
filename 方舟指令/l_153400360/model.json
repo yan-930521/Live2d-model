@@ -3,10 +3,10 @@
 	"name": "L_153400360",
 	"model": "L_153400360.moc",
 	"textures": [
+		"L_153400360.2048/texture_00",
+		"L_153400360.2048/texture_01",
+		"L_153400360.2048/texture_02"
 	],
-	"skin_textures":{
-		"153400360": ["L_153400360.2048/texture_00","L_153400360.2048/texture_01","L_153400360.2048/texture_02"]
-	},
   "trigger": [
   ],
 	"motions": {
