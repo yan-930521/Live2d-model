@@ -13,18 +13,18 @@
 		  { "file": "motions/idle.mtn #402.mtn","fade_in":250, "fade_out":200 ,"cv_id":1}
 		],
 		"idle_click": [
-		  { "file": "motions/1534003_02.mtn","fade_in":250, "fade_out":200,"cv_id":2},
-		  { "file": "motions/1534003_03.mtn","fade_in":250, "fade_out":200 ,"cv_id":3},
-		  { "file": "motions/1534003_04.mtn","fade_in":250, "fade_out":200 ,"cv_id":4},
-		  { "file": "motions/1534003_05.mtn","fade_in":250, "fade_out":200,"cv_id":5},
-		  { "file": "motions/1534003_06.mtn","fade_in":250, "fade_out":200 ,"cv_id":6},
-		  { "file": "motions/1534003_07.mtn","fade_in":250, "fade_out":200 ,"cv_id":7},
-		  { "file": "motions/1534003_08.mtn","fade_in":250, "fade_out":200,"cv_id":8},
-		  { "file": "motions/1534003_09.mtn","fade_in":250, "fade_out":200 ,"cv_id":9},
-		  { "file": "motions/1534003_10.mtn","fade_in":250, "fade_out":200 ,"cv_id":10},
-		  { "file": "motions/1534003_11.mtn","fade_in":250, "fade_out":200 ,"cv_id":11},
-		  { "file": "motions/1534003_12.mtn","fade_in":250, "fade_out":200 ,"cv_id":12},
-		  { "file": "motions/1534003_20.mtn","fade_in":0, "fade_out":0 ,"cv_id":20}
+		  { "file": "motions/1534003_02.mtn.mtn","fade_in":250, "fade_out":200,"cv_id":2},
+		  { "file": "motions/1534003_03.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":3},
+		  { "file": "motions/1534003_04.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":4},
+		  { "file": "motions/1534003_05.mtn.mtn","fade_in":250, "fade_out":200,"cv_id":5},
+		  { "file": "motions/1534003_06.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":6},
+		  { "file": "motions/1534003_07.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":7},
+		  { "file": "motions/1534003_08.mtn.mtn","fade_in":250, "fade_out":200,"cv_id":8},
+		  { "file": "motions/1534003_09.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":9},
+		  { "file": "motions/1534003_10.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":10},
+		  { "file": "motions/1534003_11.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":11},
+		  { "file": "motions/1534003_12.mtn.mtn","fade_in":250, "fade_out":200 ,"cv_id":12},
+		  { "file": "motions/1534003_20.mtn.mtn","fade_in":0, "fade_out":0 ,"cv_id":20}
 		]
 	}
 }
