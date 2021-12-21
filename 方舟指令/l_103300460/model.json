@@ -5,8 +5,7 @@
 	"textures": [
     "textures/texture_00.png",
     "textures/texture_01.png",
-    "textures/texture_02.png",
-    "textures/texture_03.png"
+    "textures/texture_02.png"
   ],
   "trigger": [
   ],
