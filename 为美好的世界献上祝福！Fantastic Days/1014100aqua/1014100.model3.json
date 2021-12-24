@@ -7,7 +7,7 @@
     ],
     "Physics": ".physics3.json",
     "Motions": {
-      "": [
+      "idle": [
         {
           "File": "motions/00_Anger_03.motion3.json"
         },
